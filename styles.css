@@ -1,3 +1,25 @@
 body {
-
+font-family: Arial, Verdena, sans-serif;
+    font-size: 90%;
+    color: #666666;
+    background-color: #f8f8f8;
+}
+li {
+    list-style-image: url("images/icon-plus.png");
+    line-height: 1.6em;
+}
+table {
+    border-spacing: 0px;
+}
+th, td {
+    padding: 5px 30px 5px 10px;
+    border-spacing: 0px;
+    font-size: 90%;
+    margin: 0px;
+}
+th, td {
+    text-align: left;
+    background-color: #f1f8fe;
+    border-bottom: 1px solid #cbd2d8;
+    border-right: 1px solid #cbd2db;
 }
